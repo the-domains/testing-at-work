@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Solo la mitad de la semana, y uno quiero que ya lleguen las vacaciones...'
-datePublished: '2016-01-06T17:40:08.441Z'
-dateModified: '2016-01-06T17:39:40.627Z'
+datePublished: '2016-01-06T17:59:27.528Z'
+dateModified: '2016-01-06T17:59:22.465Z'
 title: Recién miércoles
 author: []
 authors: []
