@@ -1,6 +1,6 @@
 name: Testing at Work
 favicon: null
-layout_spectrum: 0.50091
+layout_spectrum: 0.38345
 typography_spectrum: 0.74899
 title: El momento en la oficina
 collections:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.1875
+    - '#c1272d'
+    - '#000000'
+    - '#ffdecc'
+    - '#268085'
+    - '#bf9741'
+  brandStrength: 0.8125
   lightness: 0
   saturation: 0.6875
   rhythmicContrast: 0
