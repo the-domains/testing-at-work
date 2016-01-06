@@ -2,7 +2,7 @@ name: Testing at Work
 favicon: null
 layout_spectrum: 0.62919
 typography_spectrum: 0.74899
-title: Testing at wrok
+title: Testing at work
 collections:
   - index:
       path: /
