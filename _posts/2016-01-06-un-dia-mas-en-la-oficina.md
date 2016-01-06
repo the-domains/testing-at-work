@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Sin ganas de trabajar...
-datePublished: '2016-01-06T14:23:13.616Z'
-dateModified: '2016-01-06T14:20:29.263Z'
+datePublished: '2016-01-06T14:40:37.631Z'
+dateModified: '2016-01-06T14:27:41.729Z'
 title: Un día más en la oficina
 author: []
 sourcePath: _posts/2016-01-06-un-dia-mas-en-la-oficina.md
