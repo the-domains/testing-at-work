@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Una foto de mi señora lideando con el día a día y la tecnología en su oficina...
-datePublished: '2016-01-06T19:26:38.613Z'
-dateModified: '2016-01-06T19:26:33.911Z'
+datePublished: '2016-01-06T20:54:24.486Z'
+dateModified: '2016-01-06T20:54:18.996Z'
 title: Luchando con el PC
 author: []
 sourcePath: _posts/2016-01-06-luchando-con-el-pc.md
@@ -22,5 +22,5 @@ url: luchando-con-el-pc/index.html
 _type: Article
 
 ---
-Catalina (mi señora): Mañana me traeré el computador (Macbook Pro), el de la oficina necesita mantención. -Ella trabaja en Forum, filial del Banco BBVA-
+Catalina (mi señora): otro día más con el computador dando problemas, pero lo superaré! :D
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d470b412-bdc4-41c9-a13d-5e9eb9081b28.jpg)
