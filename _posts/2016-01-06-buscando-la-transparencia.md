@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Empezando el año y ya quiere vacaciones :D'
-datePublished: '2016-01-06T14:40:02.794Z'
-dateModified: '2016-01-06T14:36:00.865Z'
+datePublished: '2016-01-06T17:26:24.831Z'
+dateModified: '2016-01-06T17:26:15.843Z'
 title: Buscando la transparencia
 author: []
 authors: []
