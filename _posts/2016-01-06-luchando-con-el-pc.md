@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Una foto de mi señora lideando con el día a día y la tecnología en su oficina...
-datePublished: '2016-01-06T14:04:37.553Z'
-dateModified: '2016-01-06T14:03:53.813Z'
+datePublished: '2016-01-06T14:29:06.939Z'
+dateModified: '2016-01-06T14:28:52.584Z'
 title: Luchando con el PC
 author: []
+sourcePath: _posts/2016-01-06-luchando-con-el-pc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-luchando-con-el-pc.md
-published: true
 url: luchando-con-el-pc/index.html
 _type: Article
 
