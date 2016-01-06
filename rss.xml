@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Testing at Work]]></title>
+        <description><![CDATA[Testing at Work]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 13:36:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Un día más en la oficina]]></title>
+            <description><![CDATA[<article><h1>Un día más en la oficina</h1><p>En uno de los meses más flojos del año (enero), en el que solo esperamos que lleguen las vacaciones, uno trata de mostrarse con el mejor ánimo posible... quiero estar en mi casa... jajaja.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b56b77256b09f9adceb904e3c63d6a26dc89221a.jpg"></article>]]></description>
+            <link>undefinedun-dia-mas-en-la-oficina/index.html</link>
+            <guid isPermaLink="false">b0c061ef-e6c0-4b87-9d25-7a3d20f4ffa4</guid>
+            <pubDate>Wed, 06 Jan 2016 13:36:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
