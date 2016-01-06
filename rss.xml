@@ -4,11 +4,18 @@
         <description><![CDATA[El momento en la oficina]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 17:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 17:26:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Buscando la transparencia]]></title>
+            <description><![CDATA[<article><h1>Buscando la transparencia</h1><p>Chris: Motivado para comenzar un nuevo año por más y mejor transparencia y entusiasmado por mis próximas vacaciones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d065f96f98290f5dfb0a06e199083fb60e20b03.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/buscando-la-transparencia/index.html</link>
+            <guid isPermaLink="false">3ee832d5-d9b4-4779-a89a-ccfaf5163e22</guid>
+            <pubDate>Wed, 06 Jan 2016 17:26:24 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hump Day]]></title>
-            <description><![CDATA[<article><h1>Hump Day</h1><p>Duane: Another day at the office, another day trying to avoid going cross-eyed staring at my monitors.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6470cc14-be01-43a1-8ecb-1a0d1c8abdeb.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hump Day</h1><p>Duane: Another day at the office, another day trying to avoid going cross-eyed staring at my monitors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b13fb26857cfd689abc657a097ca4688c6e4ad25.jpg"></article>]]></description>
             <link>https://thegrid.ai/testing-at-work/hump-day/index.html</link>
             <guid isPermaLink="false">7fe490ac-4144-4917-9089-5d5b92605763</guid>
             <pubDate>Wed, 06 Jan 2016 17:24:52 GMT</pubDate>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/testing-at-work/un-dia-mas-en-la-oficina/index.html</link>
             <guid isPermaLink="false">b0c061ef-e6c0-4b87-9d25-7a3d20f4ffa4</guid>
             <pubDate>Wed, 06 Jan 2016 14:40:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buscando la transparencia]]></title>
-            <description><![CDATA[<article><h1>Buscando la transparencia</h1><p>Chris: Motivado para comenzar un nuevo año por más y mejor transparencia y entusiasmado por mis próximas vacaciones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d065f96f98290f5dfb0a06e199083fb60e20b03.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/buscando-la-transparencia/index.html</link>
-            <guid isPermaLink="false">3ee832d5-d9b4-4779-a89a-ccfaf5163e22</guid>
-            <pubDate>Wed, 06 Jan 2016 14:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
