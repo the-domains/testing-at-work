@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Testing at Work]]></title>
         <description><![CDATA[Testing at Work]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 13:36:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Jan 2016 14:04:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Un día más en la oficina]]></title>
             <description><![CDATA[<article><h1>Un día más en la oficina</h1><p>En uno de los meses más flojos del año (enero), en el que solo esperamos que lleguen las vacaciones, uno trata de mostrarse con el mejor ánimo posible... quiero estar en mi casa... jajaja.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b56b77256b09f9adceb904e3c63d6a26dc89221a.jpg"></article>]]></description>
-            <link>undefinedun-dia-mas-en-la-oficina/index.html</link>
+            <link>https://thegrid.ai/testing-at-work/un-dia-mas-en-la-oficina/index.html</link>
             <guid isPermaLink="false">b0c061ef-e6c0-4b87-9d25-7a3d20f4ffa4</guid>
             <pubDate>Wed, 06 Jan 2016 13:36:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Luchando con el PC]]></title>
+            <description><![CDATA[<article><h1>Luchando con el PC</h1><p>Catalina (mi señora): Mañana me traeré el computador (Macbook Pro), el de la oficina necesita mantención. -Ella trabaja en Forum, filial del Banco BBVA-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fe3400d586cf450ee21208bdf05689d72b90e8b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/luchando-con-el-pc/index.html</link>
+            <guid isPermaLink="false">c8a21a77-8ff4-450c-8320-cba3da9cfdfc</guid>
+            <pubDate>Wed, 06 Jan 2016 14:03:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
