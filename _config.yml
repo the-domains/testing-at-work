@@ -1,6 +1,6 @@
 name: Testing at Work
 favicon: null
-layout_spectrum: 0.63813
+layout_spectrum: 1
 typography_spectrum: 0.74899
 title: Testing at wrok
 collections:
@@ -34,8 +34,8 @@ color:
     - '#ffdecc'
     - '#268085'
     - '#bf9741'
-  brandStrength: 0.1875
-  lightness: 0.625
-  saturation: 0.875
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
