@@ -4,11 +4,11 @@
         <description><![CDATA[El momento en la oficina]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 14:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 14:40:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Recién miércoles]]></title>
-            <description><![CDATA[<article><h1>Recién miércoles</h1><p>Alen: Semana eterna!! Y estamos recién a miércoles 😭 contando los días para iniciar las vacaciones y regresar más cansado jajajaja</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/875c4cfe-7b9f-4f54-b09c-980daac8e2b5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Recién miércoles</h1><p>Alen: Semana eterna!! Y estamos recién a miércoles 😭 contando los días para iniciar las vacaciones y regresar más cansado jajajaja</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/139f94d967f26b4cb04e0b9ec5d263fc18ca973f.jpg"></article>]]></description>
             <link>https://thegrid.ai/testing-at-work/recien-miercoles/index.html</link>
             <guid isPermaLink="false">20acef96-e1b2-4028-8828-0baf3b29274c</guid>
             <pubDate>Wed, 06 Jan 2016 14:31:52 GMT</pubDate>
@@ -33,6 +33,13 @@
             <link>https://thegrid.ai/testing-at-work/un-dia-mas-en-la-oficina/index.html</link>
             <guid isPermaLink="false">b0c061ef-e6c0-4b87-9d25-7a3d20f4ffa4</guid>
             <pubDate>Wed, 06 Jan 2016 14:23:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buscando la transparencia]]></title>
+            <description><![CDATA[<article><h1>Buscando la transparencia</h1><p>Chris: Motivado para comenzar un nuevo año por más y mejor transparencia y entusiasmado por mis próximas vacaciones.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d065f96f98290f5dfb0a06e199083fb60e20b03.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/buscando-la-transparencia/index.html</link>
+            <guid isPermaLink="false">3ee832d5-d9b4-4779-a89a-ccfaf5163e22</guid>
+            <pubDate>Wed, 06 Jan 2016 14:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
