@@ -1,7 +1,7 @@
 name: Testing at Work
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.58382
+layout_spectrum: 0.49477
+typography_spectrum: 0.24915
 title: El momento en la oficina
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#E376B7'
   brandStrength: 0
   lightness: 0.1875
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
