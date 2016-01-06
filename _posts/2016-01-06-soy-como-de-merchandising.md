@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'El puesto de Consuelo está muy ordenado para ser verdad :P'
-datePublished: '2016-01-06T14:21:29.917Z'
-dateModified: '2016-01-06T14:20:47.544Z'
+datePublished: '2016-01-06T14:28:03.716Z'
+dateModified: '2016-01-06T14:27:57.902Z'
 title: 'Soy como de merchandising!!'
 author: []
+sourcePath: _posts/2016-01-06-soy-como-de-merchandising.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-soy-como-de-merchandising.md
-published: true
 url: soy-como-de-merchandising/index.html
 _type: Article
 
