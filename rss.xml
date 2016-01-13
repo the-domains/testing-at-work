@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Testing at wrok]]></title>
-        <description><![CDATA[Testing at wrok]]></description>
+        <title><![CDATA[Testing at work]]></title>
+        <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 20:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 13:47:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Animadamente estresado!!!]]></title>
+            <description><![CDATA[<article><h1>Animadamente estresado!!!</h1><p>Chris: con ánimos, pero estresado. Hoy comienza la visita del Big Boss de TI. Que nervios!!!!! 😅</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/252aeab0d1158d896dfa48237797a07bbe159b72.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/animadamente-estresado/index.html</link>
+            <guid isPermaLink="false">a645da1d-02c8-4584-8f0c-bf4c2cb72087</guid>
+            <pubDate>Wed, 13 Jan 2016 13:47:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Un día más en la oficina]]></title>
             <description><![CDATA[<article><h1>Un día más en la oficina</h1><p>En uno de los meses más flojos del año (enero), en el que solo esperamos que lleguen las vacaciones, uno trata de mostrarse con el mejor ánimo posible... quiero estar en mi casa... jajaja.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3061540e327fbb1f18277e656c60ad57ffbf7f2c.jpg"></article>]]></description>
