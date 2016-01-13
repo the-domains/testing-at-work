@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 14:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 15:33:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I should be hibernating]]></title>
+            <description><![CDATA[<article><h1>I should be hibernating</h1><p>Duane:  when it feels like -8° C outside, there's not enough coffee in the world.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab3669ad-d1cd-4120-b4d4-14fca30a17d5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/i-should-be-hibernating/index.html</link>
+            <guid isPermaLink="false">53480cd0-7e73-4979-992b-c1604bed5d66</guid>
+            <pubDate>Wed, 13 Jan 2016 15:33:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ansioso de ver a los amigos!]]></title>
             <description><![CDATA[<article><h1>Ansioso de ver a los amigos!</h1><p>Ed: día miércoles y estoy ansioso... de que llegue el viernes y nos podamos reír bastante!!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fcf3a5ea18d02008e385d873cb25660ff813e7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/buscando-la-transparencia/index.html</link>
             <guid isPermaLink="false">3ee832d5-d9b4-4779-a89a-ccfaf5163e22</guid>
             <pubDate>Wed, 06 Jan 2016 19:25:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hump Day]]></title>
-            <description><![CDATA[<article><h1>Hump Day</h1><p>Duane: Another day at the office, another day trying to avoid going cross-eyed staring at my monitors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b13fb26857cfd689abc657a097ca4688c6e4ad25.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/hump-day/index.html</link>
-            <guid isPermaLink="false">7fe490ac-4144-4917-9089-5d5b92605763</guid>
-            <pubDate>Wed, 06 Jan 2016 19:24:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
