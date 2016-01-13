@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 16:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 17:45:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Con ganas de una siesta]]></title>
+            <description><![CDATA[<article><h1>Con ganas de una siesta</h1><p>Siestas deberían ser obligatorias!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad2ac2127e5534662fae54f5cc11d6b32aab018.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/con-ganas-de-una-siesta/index.html</link>
+            <guid isPermaLink="false">8ecfcb9d-8ee3-4fbc-9a16-52f894d4af25</guid>
+            <pubDate>Wed, 13 Jan 2016 17:45:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deporte para cortar la rutina]]></title>
             <description><![CDATA[<article><h1>Deporte para cortar la rutina</h1><p>Alen: e</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f15b886023f1f7e3e6b2219a8a2f2d91c7a1a9eb.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/soy-como-de-merchandising/index.html</link>
             <guid isPermaLink="false">b4a90f64-5bf9-4ca9-a6db-ca296c6a26bb</guid>
             <pubDate>Wed, 06 Jan 2016 19:26:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Recién miércoles]]></title>
-            <description><![CDATA[<article><h1>Recién miércoles</h1><p>Alen: Semana eterna!! Y estamos recién a miércoles 😭 contando los días para iniciar las vacaciones y regresar más cansado jajajaja</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/139f94d967f26b4cb04e0b9ec5d263fc18ca973f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/recien-miercoles/index.html</link>
-            <guid isPermaLink="false">20acef96-e1b2-4028-8828-0baf3b29274c</guid>
-            <pubDate>Wed, 06 Jan 2016 19:25:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
