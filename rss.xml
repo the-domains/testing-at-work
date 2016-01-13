@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 15:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 16:20:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Deporte para cortar la rutina]]></title>
+            <description><![CDATA[<article><h1>Deporte para cortar la rutina</h1><p>Alen: e</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f15b886023f1f7e3e6b2219a8a2f2d91c7a1a9eb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/deporte-para-cortar-la-rutina/index.html</link>
+            <guid isPermaLink="false">68dfffbb-e200-4032-8aad-ecae56560f4f</guid>
+            <pubDate>Wed, 13 Jan 2016 16:20:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Entre dioses y mortales]]></title>
             <description><![CDATA[<article><h1>Entre dioses y mortales</h1><p>Cata: vuelvo full motivada de la reunión en el Olimpo, y me encuentro que tengo más pega que la €&@$£¥£$</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1101f8a44181212652f57308c81491c40a9c7e4e.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/recien-miercoles/index.html</link>
             <guid isPermaLink="false">20acef96-e1b2-4028-8828-0baf3b29274c</guid>
             <pubDate>Wed, 06 Jan 2016 19:25:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Motivado?]]></title>
-            <description><![CDATA[<article><h1>Motivado?</h1><p>Ed: Muy ocupado, pero ¿motivado?, para escribir algo más para mis amigos!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b08fab9723f7f6e79ca92592a7cd62ddf778cf2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/motivado/index.html</link>
-            <guid isPermaLink="false">3b48cfc5-59e2-458d-bce1-90bd81f6e493</guid>
-            <pubDate>Wed, 06 Jan 2016 19:24:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
