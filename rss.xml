@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 12:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 13:04:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anti Corrupción]]></title>
+            <description><![CDATA[<article><h1>Anti Corrupción</h1><p>Chris: Editando un nuevo diccionario del corrupto para los nuevos tiempos! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c998d7e804af3ca32331cd2a440879a416578bce.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/anti-corrupcion/index.html</link>
+            <guid isPermaLink="false">65ce09be-00f4-41cb-ba99-29ed59ebb0b0</guid>
+            <pubDate>Wed, 27 Jan 2016 13:03:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hidratación!]]></title>
             <description><![CDATA[<article><h1>Hidratación!</h1><p>Alen: Agua agua agua para llegar a los 3 litros diarios 💪🏻 y desintoxicar un poco el cuerpo del alcohol de los fines de semana 😂</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/la-calma-antes-de-la-grabacion/index.html</link>
             <guid isPermaLink="false">88a764e9-17dd-41bd-b234-dc55a1b39efa</guid>
             <pubDate>Wed, 13 Jan 2016 14:03:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Animadamente estresado!!!]]></title>
-            <description><![CDATA[<article><h1>Animadamente estresado!!!</h1><p>Chris: con ánimos, pero estresado. Hoy comienza la visita del Big Boss de TI. Que nervios!!!!! 😅</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/252aeab0d1158d896dfa48237797a07bbe159b72.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/animadamente-estresado/index.html</link>
-            <guid isPermaLink="false">a645da1d-02c8-4584-8f0c-bf4c2cb72087</guid>
-            <pubDate>Wed, 13 Jan 2016 13:47:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
