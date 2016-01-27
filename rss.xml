@@ -4,11 +4,18 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 17:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 12:57:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Energética!]]></title>
+            <description><![CDATA[<article><h1>Energética!</h1><p>Conchu: Empezando mi día con un rico desayuno!! Llena de energía!!!! 💪🏼💪🏼💪🏼💪🏼</p></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/energetica/index.html</link>
+            <guid isPermaLink="false">30a6ba7f-9bb8-45a3-beb4-5f2d808cd3a2</guid>
+            <pubDate>Wed, 27 Jan 2016 12:56:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Con ganas de una siesta]]></title>
-            <description><![CDATA[<article><h1>Con ganas de una siesta</h1><p>Siestas deberían ser obligatorias!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad2ac2127e5534662fae54f5cc11d6b32aab018.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Con ganas de una siesta</h1><p>Jose: tomando un pequeño break luego del almuerzo, antes de volver al laburo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad2ac2127e5534662fae54f5cc11d6b32aab018.jpg"></article>]]></description>
             <link>https://thegrid.ai/testing-at-work/con-ganas-de-una-siesta/index.html</link>
             <guid isPermaLink="false">8ecfcb9d-8ee3-4fbc-9a16-52f894d4af25</guid>
             <pubDate>Wed, 13 Jan 2016 17:45:49 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/luchando-con-el-pc/index.html</link>
             <guid isPermaLink="false">c8a21a77-8ff4-450c-8320-cba3da9cfdfc</guid>
             <pubDate>Wed, 06 Jan 2016 20:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Soy como de merchandising!!]]></title>
-            <description><![CDATA[<article><h1>Soy como de merchandising!!</h1><p>Consuelo: Muero de sueño!!! (Ojo que el vino y la champaña no me la estoy tomando, mi puesto siempre está lleno de marcas 😅) -Otro día más en Canal 13 Cable-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54c0094515109808645a8e4158160c2845df6ede.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/soy-como-de-merchandising/index.html</link>
-            <guid isPermaLink="false">b4a90f64-5bf9-4ca9-a6db-ca296c6a26bb</guid>
-            <pubDate>Wed, 06 Jan 2016 19:26:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
