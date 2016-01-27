@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 13:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 13:20:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The new boss!]]></title>
+            <description><![CDATA[<article><h1>The new boss!</h1><p>Duane: Busy week, I've got a new employee I'm training this week and a slew of meetings.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/454725ca749a8acbf3371c46d86f14e220858b5c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/the-new-boss/index.html</link>
+            <guid isPermaLink="false">1c9d4e34-63eb-4df7-8de9-6ad93a00265b</guid>
+            <pubDate>Wed, 27 Jan 2016 13:20:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Españolizado!]]></title>
             <description><![CDATA[<article><h1>Españolizado!</h1><p>Joe: preparando todo el material para una nueva edición del viaje cultural a España!</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/i-should-be-hibernating/index.html</link>
             <guid isPermaLink="false">53480cd0-7e73-4979-992b-c1604bed5d66</guid>
             <pubDate>Wed, 13 Jan 2016 15:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ansioso de ver a los amigos!]]></title>
-            <description><![CDATA[<article><h1>Ansioso de ver a los amigos!</h1><p>Ed: día miércoles y estoy ansioso... de que llegue el viernes y nos podamos reír bastante!!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3fcf3a5ea18d02008e385d873cb25660ff813e7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/ansioso-de-ver-a-los-amigos/index.html</link>
-            <guid isPermaLink="false">674b66cf-0257-4537-b5e3-8222b79ca1af</guid>
-            <pubDate>Wed, 13 Jan 2016 14:06:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
