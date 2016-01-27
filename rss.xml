@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 12:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 12:58:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hidratación!]]></title>
+            <description><![CDATA[<article><h1>Hidratación!</h1><p>Alen: Agua agua agua para llegar a los 3 litros diarios 💪🏻 y desintoxicar un poco el cuerpo del alcohol de los fines de semana 😂</p></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/hidratacion/index.html</link>
+            <guid isPermaLink="false">124afc3c-a1dc-441e-bcdc-85eba58443a2</guid>
+            <pubDate>Wed, 27 Jan 2016 12:58:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[TUTO!!!]]></title>
             <description><![CDATA[<article><h1>TUTO!!!</h1><p>Cata: Con un café gigante porque la Monchi no se apiadó de nosotros!!!! 😴💤😴💤😴💤😴💤</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/animadamente-estresado/index.html</link>
             <guid isPermaLink="false">a645da1d-02c8-4584-8f0c-bf4c2cb72087</guid>
             <pubDate>Wed, 13 Jan 2016 13:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Un día más en la oficina]]></title>
-            <description><![CDATA[<article><h1>Un día más en la oficina</h1><p>En uno de los meses más flojos del año (enero), en el que solo esperamos que lleguen las vacaciones, uno trata de mostrarse con el mejor ánimo posible... quiero estar en mi casa... jajaja.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3061540e327fbb1f18277e656c60ad57ffbf7f2c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/un-dia-mas-en-la-oficina/index.html</link>
-            <guid isPermaLink="false">b0c061ef-e6c0-4b87-9d25-7a3d20f4ffa4</guid>
-            <pubDate>Wed, 06 Jan 2016 19:35:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
