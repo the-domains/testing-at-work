@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 16:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 16:12:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[El anhelo!]]></title>
+            <description><![CDATA[<article><h1>El anhelo!</h1><p>Cata: Las ojeras hasta el piso, pero sólo quedan 2 semanas para las vacaciones!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0188e2da03542563f981b42b3a9e5f9f9f96c8cd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/el-anhelo/index.html</link>
+            <guid isPermaLink="false">fb20a362-b2ac-421a-984f-5ce00aec56b7</guid>
+            <pubDate>Wed, 03 Feb 2016 16:11:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Por un Chile mejor!]]></title>
             <description><![CDATA[<article><h1>Por un Chile mejor!</h1><p>Chris: Cansado pero feliz! Lanzamos el índice de percepción de la corrupción y logramos salir en 36 medios!!! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f665b414cefcb50cbd300f00a1c5c8c9daee009.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/testing-at-work/deporte-para-cortar-la-rutina/index.html</link>
             <guid isPermaLink="false">68dfffbb-e200-4032-8aad-ecae56560f4f</guid>
             <pubDate>Wed, 13 Jan 2016 16:20:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Entre dioses y mortales]]></title>
-            <description><![CDATA[<article><h1>Entre dioses y mortales</h1><p>Cata: vuelvo full motivada de la reunión en el Olimpo, y me encuentro que tengo más pega que la €&@$£¥£$</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11c816bbe9f6aabfc6e1feb31f4b5733/croprotate.jpg?cropheight=750&cropwidth=1000&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F1101f8a44181212652f57308c81491c40a9c7e4e.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/entre-dioses-y-mortales/index.html</link>
-            <guid isPermaLink="false">8357cad0-64e8-4343-b8dc-93aa045e4bdb</guid>
-            <pubDate>Wed, 13 Jan 2016 15:43:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
