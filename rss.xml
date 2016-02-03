@@ -4,15 +4,8 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 16:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 16:40:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Quiero vacaciones!]]></title>
-            <description><![CDATA[<article><h1>Quiero vacaciones!</h1><p>Joe: Escondiendo el cansancio!!! Vacaciones cuándo llegan...?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10fdd27d99242b3bc0ed8d6c1f54151d4528c1e1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/quiero-vacaciones/index.html</link>
-            <guid isPermaLink="false">25b89f90-420d-47b7-b08a-fd154b33b66d</guid>
-            <pubDate>Wed, 03 Feb 2016 16:39:37 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[More of the same!]]></title>
             <description><![CDATA[<article><h1>More of the same!</h1><p>Duane: Is it Wednesday already? All the work days seem to run together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/979ad0ad5b87556cedba2610bccf1f9294935f5d.jpg"></article>]]></description>
@@ -76,6 +69,13 @@ con mucha sed y hambre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid
             <link>https://thegrid.ai/testing-at-work/espanolizado/index.html</link>
             <guid isPermaLink="false">5ccc15cf-c327-45c8-a448-071ff37add46</guid>
             <pubDate>Wed, 27 Jan 2016 13:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti Corrupción]]></title>
+            <description><![CDATA[<article><h1>Anti Corrupción</h1><p>Chris: Editando un nuevo diccionario del corrupto para los nuevos tiempos! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/193de808ffd5d6eafeb292182a3ecb299e2c8ac5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/anti-corrupcion/index.html</link>
+            <guid isPermaLink="false">65ce09be-00f4-41cb-ba99-29ed59ebb0b0</guid>
+            <pubDate>Wed, 27 Jan 2016 13:03:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
