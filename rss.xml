@@ -4,8 +4,15 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 16:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 16:13:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Poledancing]]></title>
+            <description><![CDATA[<article><h1>Poledancing</h1><p>Conchu: Mi panorama preferido always!!! 😬💪🏼</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d5df353790587d5fdb39eaa2be1812fc77ce080.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/poledancing/index.html</link>
+            <guid isPermaLink="false">b79714d1-7cb5-427b-8066-061f78ad1481</guid>
+            <pubDate>Wed, 03 Feb 2016 16:11:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Emergencia!]]></title>
             <description><![CDATA[<article><h1>Emergencia!</h1><p>Ed: Regresando de una emergencia
@@ -69,13 +76,6 @@ con mucha sed y hambre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid
             <link>https://thegrid.ai/testing-at-work/energetica/index.html</link>
             <guid isPermaLink="false">30a6ba7f-9bb8-45a3-beb4-5f2d808cd3a2</guid>
             <pubDate>Wed, 27 Jan 2016 12:56:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Con ganas de una siesta]]></title>
-            <description><![CDATA[<article><h1>Con ganas de una siesta</h1><p>Jose: tomando un pequeño break luego del almuerzo, antes de volver al laburo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad2ac2127e5534662fae54f5cc11d6b32aab018.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/con-ganas-de-una-siesta/index.html</link>
-            <guid isPermaLink="false">8ecfcb9d-8ee3-4fbc-9a16-52f894d4af25</guid>
-            <pubDate>Wed, 13 Jan 2016 17:45:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
