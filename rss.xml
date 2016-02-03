@@ -4,8 +4,16 @@
         <description><![CDATA[Testing at work]]></description>
         <link>https://thegrid.ai/testing-at-work/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 16:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 16:13:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testing-at-work/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Emergencia!]]></title>
+            <description><![CDATA[<article><h1>Emergencia!</h1><p>Ed: Regresando de una emergencia
+con mucha sed y hambre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/830773f7cf473731df5daa99d9cc9ad0517e30dd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testing-at-work/emergencia/index.html</link>
+            <guid isPermaLink="false">fc8ddcc5-4d56-482f-9a17-44051dd9bc2e</guid>
+            <pubDate>Wed, 03 Feb 2016 16:11:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[El anhelo!]]></title>
             <description><![CDATA[<article><h1>El anhelo!</h1><p>Cata: Las ojeras hasta el piso, pero sólo quedan 2 semanas para las vacaciones!!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0188e2da03542563f981b42b3a9e5f9f9f96c8cd.jpg"></article>]]></description>
@@ -68,13 +76,6 @@
             <link>https://thegrid.ai/testing-at-work/con-ganas-de-una-siesta/index.html</link>
             <guid isPermaLink="false">8ecfcb9d-8ee3-4fbc-9a16-52f894d4af25</guid>
             <pubDate>Wed, 13 Jan 2016 17:45:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Deporte para cortar la rutina]]></title>
-            <description><![CDATA[<article><h1>Deporte para cortar la rutina</h1><p>Alen: e</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e21dbb4a5e85c60075352ea3bae6432cadc01d6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/testing-at-work/deporte-para-cortar-la-rutina/index.html</link>
-            <guid isPermaLink="false">68dfffbb-e200-4032-8aad-ecae56560f4f</guid>
-            <pubDate>Wed, 13 Jan 2016 16:20:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
